@@ -1,8 +1,8 @@
 #pragma once
 
 /**************************
-	底层时间
+	base time support
 ***************************/
 
-// 微秒计时器
+// usec
 uint64 GetHDTime();
